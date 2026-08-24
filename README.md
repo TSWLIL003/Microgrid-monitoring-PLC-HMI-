@@ -23,6 +23,11 @@ into a meter, across a serial bus, onto an operator screen, and out to a file
 someone can analyse. This repository is the last link in that chain, and the
 notes below are what I learned building it.
 
+<p align="center">
+  <img src="Microgrid.jpg" alt="Micromouse robot" width="40%" height="450">
+  <img src="VacWork2.jpg" alt="Micromouse robot 2" width="50%" height="450">
+</p>
+
 ## The measurement chain
 
 ```mermaid
